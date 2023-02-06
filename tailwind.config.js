@@ -13,13 +13,17 @@ module.exports = {
           neutral: "#3d4451",
           "base-100": "#ffffff",
         },
+        backgroundImage: {
+
+        },
       },
       "dark",
       "cupcake",
+
     ],
   },
   theme: {
-    extend: {},
+
   },
   plugins: [require("daisyui")],
 }
